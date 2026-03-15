@@ -13,11 +13,11 @@ This is my *first* Power BI project. The goal was to explore the data job market
 ## Dashboard Overview
 
 ### PAGE 1: Job Market View
-![Dashboard page 1](/Project%201/Dashboard%201.png)  
+![Dashboard page 1](/Job%20Market%20-%20simple%20dashboard/Dashboard%201.png)  
 This page provides an overview of the data job market. Users can compare different positions, identify high-demand roles, and analyze trends to determine which positions are currently most sought-after.
 
 ### PAGE 2: Detailed Position View
-![Dashboard page 2](/Project%201/Dashboard%202.png)  
+![Dashboard page 2](/Job%20Market%20-%20simple%20dashboard/Dashboard%202.png)  
 This page provides a detailed analysis of individual positions. Users can explore salary ranges, required skills, and job availability, enabling informed decisions about career paths and opportunities.
 
 ## Conclusion
