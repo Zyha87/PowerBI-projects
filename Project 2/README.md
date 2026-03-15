@@ -13,6 +13,7 @@ This dashboard provides insights into the job market, offering a detailed view o
 - Adding a **useful button to reset filters** for a smoother user experience.  
 
 ## Dashboard Overview
+![Dasboard](/Project%202/Dashboard%20view.png)
 The dashboard presents data such as job count per **job title** and **country**, allowing users to identify the most popular roles in their location. It also displays:  
 - **Average salary per month and per hour** to compare pay across roles.  
 - **Skills required** for different job types, including counts and averages.  
