@@ -9,7 +9,7 @@ I built a training dashboard based on a real case from my company involving aged
 - Designed dashboards using KPI cards, bar charts, and pie charts for clear insights
 
 ## Dashboard Overview
-![Aged]()
+![Aged](/Dashboard%20overview.png)
 The dashboard shows that 168 out of 500 articles are aged inventory. It highlights that office supplies are the most affected category and provides their total and average value, as well as the total value of all aged items. It also includes a top 10 list of the oldest items to identify where action is needed.
 
 ## Conclusion
