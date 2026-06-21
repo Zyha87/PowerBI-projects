@@ -1,4 +1,4 @@
-# Data JOB Dashboard – 1st Project
+# Aged Inventory Dasboard
 
 ## Introduction
 I built a training dashboard based on a real case from my company involving aged inventory. The goal was to demonstrate the impact of slow moving stock, which is often overlooked but generates real costs for the business. The dashboard visualizes the scale of the problem in financial aspect. 
